@@ -1,0 +1,6 @@
+[Sun Dec 06 2020 23:59:58 GMT+0600 (Azores Standard Time)] layer "info@fuviz.com": Unsupported extension: com
+[Sun Dec 06 2020 23:59:58 GMT+0600 (Azores Standard Time)] layer "+00 (123) 456 78 90": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Sun Dec 06 2020 23:59:58 GMT+0600 (Azores Standard Time)] layer "info@reen.com": Unsupported extension: com
+[Sun Dec 06 2020 23:59:58 GMT+0600 (Azores Standard Time)] layer "info@reen.com": Unsupported extension: com
+[Sun Dec 06 2020 23:59:58 GMT+0600 (Azores Standard Time)] layer "+00 (123) 456 78 90": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Mon Dec 07 2020 00:06:14 GMT+0600 (Azores Standard Time)] layer "latest-work-2.png": Duplicate path: latest-work-2.png
